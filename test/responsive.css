@@ -1,0 +1,7 @@
+
+@media (max-width:670px){
+
+    div:active{
+        background-color: brown;
+    }
+}
